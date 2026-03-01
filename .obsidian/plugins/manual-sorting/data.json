@@ -1,0 +1,15 @@
+{
+  "customOrder": {
+    "/": {
+      "children": [
+        "Linux Commands.md",
+        "README.md",
+        "Terminal Commands.md"
+      ],
+      "sortOrder": "custom"
+    }
+  },
+  "sortOrder": "custom",
+  "debugMode": false,
+  "newItemPlacement": "top"
+}
