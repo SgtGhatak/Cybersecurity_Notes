@@ -1,6 +1,10 @@
 
 [[Linux Commands|List of Linux Commands]]
+[[Nmap Commands|List of Nmap commands]]
 
+
+
+List of command commands
 nmap -sV <ip> (port scanning)
 
 find . -type f -name "file name" (finding text files)
@@ -28,6 +32,8 @@ Gobuster
 gobuster dir -u <link> -w <wordlist>
  -u flag for link
  -w flag for wordlist
+
+wordlist location: /usr/share/wordlists/
 
 ssh <user>@<ip> -p <port>
 - eg ssh mitch@10.49.188.15 -p 2222

@@ -4,6 +4,7 @@
       "children": [
         "README.md",
         "Terminal Commands.md",
+        "Terminal Shortcuts.md",
         "Linux Commands.md",
         "Nmap Commands.md"
       ],
