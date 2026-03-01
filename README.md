@@ -1,0 +1,1 @@
+These are my notes of my learning process into Cybersecurity.
