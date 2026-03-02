@@ -1,4 +1,4 @@
-[[Terminal Commands|Return to home]]
+[[Homepage|Return to home]]
 
 man <tool>
 	-opens the manual for the specified tool
@@ -16,7 +16,7 @@ id
 	- returns users identity
 
 hostname
-	- sets or prints the name of the current host sytem
+	- sets or prints the name of the current host system
 
 uname
 	- prints the operating system name
@@ -215,9 +215,6 @@ chown
 
 rm
 	- remove a file
-
-
-
 
 2>/dev/null 
 	- **`2`**: This is the file descriptor for **standard error** (stderr). By default, this stream is directed to the terminal screen.

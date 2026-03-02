@@ -1,3 +1,5 @@
+[[Homepage|Return to home]]
+
 TAB
 	- Auto complete
 

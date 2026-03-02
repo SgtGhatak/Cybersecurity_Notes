@@ -1,7 +1,7 @@
 
 [[Linux Commands|List of Linux Commands]]
-[[Nmap Commands|List of Nmap commands]]
-
+[[Nmap Commands|List of Nmap Commands]]
+[[Terminal Shortcuts||List of Terminal Shortcuts]]
 
 
 List of command commands
@@ -29,9 +29,10 @@ Research
 Nmap
 Gobuster
 
-gobuster dir -u <link> -w <wordlist>
- -u flag for link
- -w flag for wordlist
+gobuster dir -u <hostname> -w <wordlist>
+- dir: directory
+ - [-u]: switch for link or IP
+ - [-w]: switch for wordlist
 
 wordlist location: /usr/share/wordlists/
 

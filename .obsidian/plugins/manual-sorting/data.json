@@ -3,7 +3,7 @@
     "/": {
       "children": [
         "README.md",
-        "Terminal Commands.md",
+        "Homepage.md",
         "Terminal Shortcuts.md",
         "Linux Commands.md",
         "Nmap Commands.md"
